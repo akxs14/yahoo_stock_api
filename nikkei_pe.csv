@@ -1,0 +1,722 @@
+,cap,es,name,pe,price,symbol
+0, 8.510 ,195.6, Otec Corp ,7.63,1495.0,1736:JP
+1, 5.529 ,105.3, Sony Corp ,41.52,4365.0,6758:JP
+2, 43.046 ,173.1, Tachibana Eletech Co Ltd ,9.56,1692.0,8159:JP
+3, 43.311 ,98.1, Tosei Corp ,9.13,914.0,8923:JP
+4, 162.189 ,638.2, Fukuda Denshi Co Ltd ,12.97,8280.0,6960:JP
+5,0,4.303, Taiyo Kisokogyo Co Ltd ,101.1,1050.0,1758:JP
+6, 29.202 ,171.2, Daiichi Kensetsu Corp ,8.18,1400.0,1799:JP
+7, 145.054 ,421.3, Mitani Corp ,10.9,4535.0,8066:JP
+8, 477.322 ,120.6, Daicel Corp ,11.31,1374.0,4202:JP
+9, 4.322 ,713.4, FANUC Corp ,29.69,21355.0,6954:JP
+10, 20.129 ,629.0, Toyota Motor Corp ,9.81,6165.0,7203:JP
+11, 15.689 ,157.7, Suzumo Machinery Co Ltd ,16.41,2566.0,6405:JP
+12, 45.311 ,162.0, Shoei Co Ltd ,20.31,3320.0,7839:JP
+13, 27.756 ,114.2, Zuiko Corp ,33.72,3880.0,6279:JP
+14, 36.025 ,413.4, Murakami Corp ,6.65,2846.0,7292:JP
+15, 31.876 ,297.0, Nakano Refrigerators Co Ltd ,12.04,3580.0,6411:JP
+16, 3.800 ,98.6, Seven & i Holdings Co Ltd ,43.46,4339.0,3382:JP
+17, 48.453 ,135.7, Warabeya Nichiyo Holdings Co Ltd ,20.25,2747.0,2918:JP
+18, 49.808 ,92.2, Anicom Holdings Inc ,30.11,2783.0,8715:JP
+19, 764.901 ,131.1, MINEBEA MITSUMI Inc ,13.66,1800.0,6479:JP
+20, 105.267 ,280.3, Okinawa Cellular Telephone Co ,13.74,3885.0,9436:JP
+21, 153.032 ,312.3, San-A Co Ltd ,15.19,4835.0,2659:JP
+22, 6.703 ,10.6, Zappallas Inc ,46.36,499.0,3770:JP
+23, 13.843 ,55.0, WirelessGate Inc ,23.86,1355.0,9419:JP
+24, 57.834 ,5.2, Nippon Parking Development Co Ltd ,32.43,168.0,2353:JP
+25, 362.548 ,371.7, DIC Corp ,10.25,3860.0,4631:JP
+26, 48.122 ,0.0, AnGes Inc ,0.0,624.0,4563:JP
+27, 109.808 ,120.5, Kameda Seika Co Ltd ,40.84,5040.0,2220:JP
+28, 219.642 ,112.1, Resorttrust Inc ,18.06,2030.0,4681:JP
+29, 20.018 ,22.7, Intelligent Wave Inc ,33.47,780.0,4847:JP
+30, 178.398 ,73.6, Sanrio Co Ltd ,27.2,2004.0,8136:JP
+31, 348.932 ,137.0, Yokohama Rubber Co Ltd/The ,15.02,2069.0,5101:JP
+32, 15.734 ,0.0, 3-D Matrix Ltd ,0.0,718.0,7777:JP
+33, 70.378 ,94.9, Aeon Fantasy Co Ltd ,37.72,3605.0,4343:JP
+34, 24.360 ,98.7, Arealink Co Ltd ,19.63,1887.0,8914:JP
+35, 335.612 ,196.7, Azbil Corp ,22.98,4565.0,6845:JP
+36, 112.597 ,130.0, Chiyoda Co Ltd ,20.82,2717.0,8185:JP
+37, 116.242 ,109.0, Daiseki Co Ltd ,23.64,2642.0,9793:JP
+38, 105.444 ,123.7, Earth Chemical Co Ltd ,42.19,5210.0,4985:JP
+39, 61.018 ,120.8, Ferrotec Holdings Corp ,14.0,1693.0,6890:JP
+40, 31.550 ,86.5, Furyu Corp ,12.89,1151.0,6238:JP
+41, 449.112 ,220.0, Harmonic Drive Systems Inc ,21.54,4795.0,6324:JP
+42, 97.546 ,3.0, Infomart Corp ,252.77,783.0,2492:JP
+43, 157.788 ,123.4, JINS Inc ,53.31,6700.0,3046:JP
+44, 16.019 ,78.4, Luckland Co Ltd ,25.97,2065.0,9612:JP
+45, 78.566 ,1.7, Monex Group Inc ,164.71,284.0,8698:JP
+46, 57.834 ,5.2, Nippon Parking Development Co Ltd ,32.43,168.0,2353:JP
+47, 132.490 ,32.4, Onward Holdings Co Ltd ,24.34,801.0,8016:JP
+48, 9.648 ,0.0, RVH Inc ,0.0,576.0,6786:JP
+49, 31.219 ,63.6, SBS Holdings Inc ,12.36,803.0,2384:JP
+50, 16.120 ,26.4, Sourcenext Corp ,19.25,521.0,4344:JP
+51, 21.830 ,312.2, Takihyo Co Ltd ,7.28,2315.0,9982:JP
+52, 40.858 ,64.2, Vision Inc/Tokyo Japan ,39.08,2575.0,9416:JP
+53, 21.781 ,135.4, Yushiro Chemical Industry Co Ltd ,11.57,1639.0,5013:JP
+54, 155.227 ,126.6, Ai Holdings Corp ,21.67,2775.0,3076:JP
+55, 8.305 ,27.9, ArtSpark Holdings Inc ,43.84,1260.0,3663:JP
+56, 21.982 ,257.5, Bell-Park Co Ltd ,12.68,3265.0,9441:JP
+57, 62.369 ,57.4, Chugoku Marine Paints Ltd ,15.73,939.0,4617:JP
+58, 362.548 ,371.7, DIC Corp ,10.25,3860.0,4631:JP
+59, 89.586 ,162.9, Elecom Co Ltd ,13.81,2283.0,6750:JP
+60, 39.003 ,0.0, Fields Corp ,0.0,1140.0,2767:JP
+61, 19.027 ,23.8, Gamecard-Joyco Holdings Inc ,56.17,1326.0,6249:JP
+62, 35.454 ,38.8, Hearts United Group Co Ltd ,38.27,1510.0,3676:JP
+63, 20.018 ,22.7, Intelligent Wave Inc ,33.47,780.0,4847:JP
+64, 109.808 ,120.5, Kameda Seika Co Ltd ,40.84,5040.0,2220:JP
+65, 217.005 ,41.7, Matsui Securities Co Ltd ,20.09,843.0,8628:JP
+66, 232.520 ,91.7, Nagase & Co Ltd ,19.9,1852.0,8012:JP
+67, 208.301 ,115.2, Nisshinbo Holdings Inc ,10.11,1178.0,3105:JP
+68, 27.076 ,0.0, Paris Miki Holdings Inc ,0.0,484.0,7455:JP
+69, 841.778 ,984.1, Ryohin Keikaku Co Ltd ,30.47,30050.0,7453:JP
+70, 470.208 ,144.7, Seria Co Ltd ,42.83,6230.0,2782:JP
+71, 29.020 ,244.6, Star Mica Co Ltd ,11.86,2962.0,3230:JP
+72, 4.686 ,1.5, Tamagawa Holdings Co Ltd ,73.83,113.0,6838:JP
+73, 21.191 ,64.8, Voyage Group Inc ,26.79,1795.0,3688:JP
+74, 18.587 ,67.7, Accretive Co Ltd ,6.32,452.0,8423:JP
+75, 48.122 ,0.0, AnGes Inc ,0.0,624.0,4563:JP
+76, 123.922 ,225.0, As One Corp ,26.53,6090.0,7476:JP
+77, 209.242 ,95.7, Benefit One Inc ,48.43,4715.0,2412:JP
+78, 157.420 ,332.9, cocokara fine Inc ,18.56,6170.0,3098:JP
+79, 60.843 ,98.7, Digital Arts Inc ,43.63,4330.0,2326:JP
+80, 2.809 ,3.5, Emergency Assistance Japan Co Ltd ,325.71,1200.0,6063:JP
+81, 112.697 ,106.0, Financial Products Group Co Ltd ,11.23,1200.0,7148:JP
+82, 37.193 ,0.0, GCA Corp ,0.0,953.0,2174:JP
+83, 71.936 ,19.8, IDOM Inc ,34.04,693.0,7599:JP
+84, 41.835 ,18.5, Istyle Inc ,34.31,643.0,3660:JP
+85, 130.250 ,36.6, Kenedix Inc ,14.18,527.0,4321:JP
+86, 13.586 ,0.0, Medinet Co Ltd ,0.0,129.0,2370:JP
+87, 15.459 ,72.5, Naigai Trans Line Ltd ,19.92,1427.0,9384:JP
+88, 26.321 ,116.5, NS Tool Co Ltd ,18.07,2160.0,6157:JP
+89, 509.728 ,101.1, Pigeon Corp ,41.44,4180.0,7956:JP
+90, 64.309 ,0.0, SanBio Co Ltd ,0.0,1436.0,4592:JP
+91, 169.025 ,199.1, Ship Healthcare Holdings Inc ,16.7,3370.0,3360:JP
+92, 11.561 ,0.0, SymBio Pharmaceuticals Ltd ,0.0,245.0,4582:JP
+93, 17.223 ,39.8, Tear Corp ,21.45,862.0,2485:JP
+94, 13.843 ,55.0, WirelessGate Inc ,23.86,1355.0,9419:JP
+95, 118.145 ,294.6, Adastria Co Ltd ,8.22,2422.0,2685:JP
+96, 49.808 ,92.2, Anicom Holdings Inc ,30.11,2783.0,8715:JP
+97, 53.951 ,124.0, Ateam Inc ,22.3,2802.0,3662:JP
+98, 377.851 ,153.4, Canon Marketing Japan Inc ,16.3,2528.0,8060:JP
+99, 338.400 ,144.4, COMSYS Holdings Corp ,16.62,2386.0,1721:JP
+100, 101.017 ,130.8, Digital Garage Inc ,16.33,2162.0,4819:JP
+101, 184.198 ,104.1, en-japan Inc ,35.61,3780.0,4849:JP
+102, 20.487 ,0.0, Freebit Co Ltd ,0.0,890.0,3843:JP
+103, 12.853 ,54.1, Grandy House Corp ,7.71,424.0,8999:JP
+104, 23.807 ,16.2, IGNIS Ltd ,218.87,3630.0,3689:JP
+105, 129.271 ,104.9, Itochu Enex Co Ltd ,10.54,1133.0,8133:JP
+106, 46.158 ,95.0, KFC Holdings Japan Ltd ,21.34,2029.0,9873:JP
+107, 10.648 ,0.0, Meganesuper Co Ltd ,0.0,69.0,3318:JP
+108, 28.771 ,0.0, NanoCarrier Co Ltd ,0.0,675.0,4571:JP
+109, 347.551 ,60.8, NTT Urban Development Corp ,17.36,1050.0,8933:JP
+110, 11.467 ,15.2, Raccoon Co Ltd ,40.45,636.0,3031:JP
+111, 18.638 ,26.1, Sanix Inc ,14.6,362.0,4651:JP
+112, 151.622 ,62.1, SMS Co Ltd ,56.32,3545.0,2175:JP
+113,0,15.687, Synchro Food Co Ltd ,33.8,1799.0,3963:JP
+114, 83.401 ,171.8, TKC Corp ,18.16,3185.0,9746:JP
+115, 75.384 ,258.6, Yellow Hat Ltd ,11.68,3095.0,9882:JP
+116, 7.689 ,40.2, ADJUVANT COSME JAPAN Co Ltd ,24.04,969.0,4929:JP
+117, 119.056 ,18.0, Anritsu Corp ,47.9,862.0,6754:JP
+118, 8.391 ,34.4, Aucfan Co Ltd ,24.64,888.0,3674:JP
+119, 12.651 ,0.0, Carna Biosciences Inc ,0.0,1364.0,4572:JP
+120, 19.881 ,217.0, CRE Inc/Japan ,7.21,1600.0,3458:JP
+121, 661.187 ,209.2, Don Quijote Holdings Co Ltd ,19.98,4185.0,7532:JP
+122, 96.289 ,4.2, euglena Co Ltd ,273.88,1146.0,2931:JP
+123, 25.088 ,0.0, Fronteo Inc ,0.0,670.0,2158:JP
+124, 37.461 ,113.5, Hakuto Co Ltd ,13.67,1634.0,7433:JP
+125, 98.995 ,156.2, Inabata & Co Ltd ,9.98,1593.0,8098:JP
+126, 104.115 ,0.0, J Trust Co Ltd ,0.0,935.0,8508:JP
+127, 37.009 ,59.3, LAC Co Ltd ,23.37,1363.0,3857:JP
+128, 109.287 ,190.1, Milbon Co Ltd ,34.71,6650.0,4919:JP
+129, 94.858 ,51.2, NET One Systems Co Ltd ,21.58,1114.0,7518:JP
+130, 128.472 ,69.4, Oki Electric Industry Co Ltd ,21.23,1494.0,6703:JP
+131, 220.294 ,112.1, Resorttrust Inc ,18.11,2030.0,4681:JP
+132, 178.398 ,73.6, Sanrio Co Ltd ,27.2,2004.0,8136:JP
+133, 19.635 ,35.3, Snow Peak Inc ,78.94,2798.0,7816:JP
+134, 153.911 ,251.1, Taiyo Holdings Co Ltd ,21.26,5480.0,4626:JP
+135, 118.728 ,58.2, TOKAI Holdings Corp ,14.62,854.0,3167:JP
+136, 69.293 ,9.5, Yume No Machi Souzou Iinkai Co Ltd ,164.39,1600.0,2484:JP
+137, 210.449 ,196.6, Aeon Delight Co Ltd ,19.71,3935.0,9787:JP
+138, 14.513 ,91.3, Apamanshop Holdings Co Ltd ,8.7,800.0,8889:JP
+139, 8.312 ,0.0, Axell Corp ,0.0,746.0,6730:JP
+140, 15.397 ,25.5, Ceres Inc/Japan ,56.19,1468.0,3696:JP
+141, 27.741 ,53.8, Creek & River Co Ltd ,22.85,1267.0,4763:JP
+142, 22.090 ,0.0, Dream Incubator Inc ,0.0,2231.0,4310:JP
+143, 41.244 ,27.9, Evolable Asia Corp ,87.59,2500.0,6191:JP
+144, 43.214 ,5.1, Fujita Kanko Inc ,698.22,3610.0,9722:JP
+145, 42.929 ,103.0, Happinet Corp ,17.33,1825.0,7552:JP
+146, 77.472 ,133.0, Infocom Corp ,20.33,2833.0,4348:JP
+147, 13.666 ,0.2, Japan Best Rescue System Co Ltd ,1641.67,385.0,2453:JP
+148, 94.616 ,78.8, Lasertec Corp ,25.46,2026.0,6920:JP
+149, 110.911 ,105.0, Mirait Holdings Corp ,12.35,1309.0,1417:JP
+150, 101.428 ,84.5, Nichi-iko Pharmaceutical Co Ltd ,19.75,1701.0,4541:JP
+151, 9.225 ,0.0, ONO Sokki Co Ltd ,0.0,745.0,6858:JP
+152, 121.512 ,33.5, Round One Corp ,37.99,1280.0,4680:JP
+153, 89.538 ,92.6, Sato Holdings Corp ,27.68,2616.0,6287:JP
+154,0,87.674, Solasia Pharma KK ,27.88,330.0,4597:JP
+155, 354.452 ,64.3, Takashimaya Co Ltd ,15.52,1006.0,8233:JP
+156, 18.463 ,22.8, Tri-Stage Inc ,26.52,617.0,2178:JP
+157, 58.988 ,20.5, Yumeshin Holdings Co Ltd ,38.5,803.0,2362:JP
+158, 14.107 ,73.4, Cosmos Initia Co Ltd ,5.68,422.0,8844:JP
+159, 18.275 ,140.5, I'rom Group Co Ltd ,11.32,1661.0,2372:JP
+160, 10.056 ,52.0, Ride On Express Co Ltd ,18.53,1022.0,6082:JP
+161, 111.015 ,42.8, Seikagaku Corp ,45.63,1958.0,4548:JP
+162, 10.056 ,52.0, Ride On Express Co Ltd ,18.53,1022.0,6082:JP
+163, 111.015 ,42.8, Seikagaku Corp ,45.63,1958.0,4548:JP
+164, 8.130 ,58.6, Urbanet Corp Co Ltd ,5.53,326.0,3242:JP
+165, 44.776 ,14.0, Medical Data Vision Co Ltd ,159.46,2365.0,3902:JP
+166, 10.056 ,52.0, Ride On Express Co Ltd ,18.53,1022.0,6082:JP
+167, 167.400 ,169.7, T-Gaia Corp ,12.48,2152.0,3738:JP
+168, 19.404 ,22.3, Designone Japan Inc ,57.73,1287.0,6048:JP
+169, 2.742 ,0.0, Crea Holdings Inc ,0.0,31.0,1757:JP
+170, 44.776 ,14.0, Medical Data Vision Co Ltd ,159.46,2365.0,3902:JP
+171, 7.404 ,106.6, Sansei Landic Co Ltd ,8.32,905.0,3277:JP
+172, 167.400 ,169.7, T-Gaia Corp ,12.48,2152.0,3738:JP
+173, 89.877 ,107.4, Hiday Hidaka Corp ,28.96,3190.0,7611:JP
+174, 5.730 ,0.0, MedPeer Inc ,0.0,667.0,6095:JP
+175, 6.760 ,0.0, Sanwa Co Ltd/Kitahama Chuo-Ku Osaka ,0.0,411.0,3187:JP
+176, 4.410 ,31.1, Takatori Corp ,25.83,825.0,6338:JP
+177, 18.275 ,140.5, I'rom Group Co Ltd ,11.32,1661.0,2372:JP
+178, 6.148 ,0.0, Medrx Co Ltd ,0.0,770.0,4586:JP
+179, 111.015 ,42.8, Seikagaku Corp ,45.63,1958.0,4548:JP
+180, 1.173 ,0.0, Fujita Corp Co Ltd ,0.0,814.0,3370:JP
+181, 66.781 ,47.9, CMK Corp ,22.13,1066.0,6958:JP
+182, 1.767 ,0.0, Tiemco Ltd ,0.0,530.0,7501:JP
+183, 3.176 ,82.0, Nippo Ltd ,4.24,355.0,9913:JP
+184, 5.052 ,0.7, Tsuchiya Holdings Co Ltd ,272.22,197.0,1840:JP
+185, 6.175 ,12.5, Totenko Co Ltd ,191.85,2400.0,8181:JP
+186, 7.914 ,20.2, Charle Co Ltd ,24.33,492.0,9885:JP
+187, 4.093 ,30.2, Echo Trading Co Ltd ,22.49,685.0,7427:JP
+188, 12.926 ,0.0, Felissimo Corp ,0.0,1285.0,3396:JP
+189, 6.446 ,70.8, Seki Co Ltd ,20.21,1430.0,7857:JP
+190, 6.131 ,72.9, Bunkeido Co Ltd ,12.74,929.0,9471:JP
+191, 3.099 ,143.1, Imamura Securities Co Ltd ,8.14,1181.0,7175:JP
+192, 30.829 ,38.4, Organo Corp ,13.84,540.0,6368:JP
+193, 53.003 ,110.7, Iseki & Co Ltd ,20.83,2324.0,6310:JP
+194, 60.649 ,253.4, Stella Chemifa Corp ,18.12,4650.0,4109:JP
+195, 3.881 ,27.8, Ichirokudo Co Ltd ,14.42,401.0,3366:JP
+196,0,0.66, Tisc Co Ltd ,3.5,1000.0,4349:JP
+197, 137.241 ,406.6, Modec Inc ,5.98,2468.0,6269:JP
+198, 2.728 ,0.0, Three F Co Ltd ,0.0,360.0,7544:JP
+199, 25.501 ,69.6, Furuya Metal Co Ltd ,50.45,3550.0,7826:JP
+200, 84.133 ,140.8, Doshisha Co Ltd ,15.99,2230.0,7483:JP
+201, 190.270 ,57.5, Nippon Suisan Kaisha Ltd ,10.59,613.0,1332:JP
+202, 8.380 ,0.0, Nippon Antenna Co Ltd ,0.0,588.0,6930:JP
+203, 48.428 ,38.3, Dai Nippon Toryo Co Ltd ,8.52,340.0,4611:JP
+204, 16.394 ,111.2, Sansei Technologies Inc ,7.63,854.0,6357:JP
+205, 3.805 ,0.0, Original Engineering Consultants Co Ltd ,0.0,491.0,4642:JP
+206, 10.261 ,65.7, Yotai Refractories Co Ltd ,6.1,405.0,5357:JP
+207, 4.896 ,63.2, Daiken Co Ltd ,12.98,825.0,5900:JP
+208, 4.764 ,104.4, Nansin Co Ltd ,5.92,625.0,7399:JP
+209, 19.297 ,162.6, Terasaki Electric Co Ltd ,9.11,1500.0,6637:JP
+210, 9.730 ,327.4, Kawaden Corp ,7.09,2300.0,6648:JP
+211, 9.798 ,134.8, Nadex Co Ltd ,7.57,1007.0,7435:JP
+212, 11.025 ,205.3, Toba Inc ,10.74,2235.0,7472:JP
+213, 16.589 ,90.1, Yonkyu Co Ltd ,15.91,1433.0,9955:JP
+214, 933.947 ,15.7, Yamato Holdings Co Ltd ,144.43,2307.0,9064:JP
+215, 9.842 ,0.0, Yamato International Inc ,0.0,472.0,8127:JP
+216, 208.762 ,168.8, Yamato Kogyo Co Ltd ,18.27,3125.0,5444:JP
+217, 26.260 ,176.0, Saison Information Systems Co Ltd ,9.21,1640.0,9640:JP
+218, 368.850 ,322.6, Credit Saison Co Ltd ,6.17,1999.0,8253:JP
+219, 1.787 ,440.5, Sompo Holdings Inc ,9.77,4200.0,8630:JP
+220, 5.764 ,552.5, Sumitomo Mitsui Financial Group Inc ,7.37,4090.0,8316:JP
+221, 297.872 ,231.4, Sumitomo Forestry Co Ltd ,7.26,1697.0,1911:JP
+222, 1.948 ,181.4, Sumitomo Corp ,8.59,1548.5,8053:JP
+223, 98.102 ,239.9, Shibuya Corp ,14.53,3550.0,6340:JP
+224, 31.781 ,268.5, Shibaura Electronics Co Ltd ,15.21,4085.0,6957:JP
+225, 9.528 ,13.4, Actcall Inc ,92.8,1280.0,6064:JP
+226, 8.232 ,68.8, Sugimura Warehouse Co Ltd ,7.46,532.0,9307:JP
+227, 17.084 ,18.9, Shibaura Mechatronics Corp ,17.39,334.0,6590:JP
+228, 21.384 ,257.7, Yamatane Corp ,7.31,1967.0,9305:JP
+229, 1.083 ,262.1, Yamaha Motor Co Ltd ,11.81,3075.0,7272:JP
+230, 449.623 ,196.6, Toyo Suisan Kaisha Ltd ,20.62,4075.0,2875:JP
+231, 19.789 ,0.0, Inui Global Logistics Co Ltd ,0.0,767.0,9308:JP
+232, 514.130 ,215.1, Keisei Electric Railway Co Ltd ,13.86,3010.0,9009:JP
+233, 6.523 ,94.7, Asagami Corp ,4.86,460.0,9311:JP
+234, 133.543 ,173.3, Keihin Corp ,10.41,1835.0,7251:JP
+235, 10.524 ,9.3, Keihin Co Ltd/Minato-Ku Tokyo Japan ,17.29,160.0,9312:JP
+236, 13.877 ,96.4, Maruhachi Holdings Co Ltd ,8.68,863.0,3504:JP
+237, 164.553 ,318.9, Maruha Nichiro Corp ,9.8,3165.0,1333:JP
+238,0,0.0, Maruha Nichiro Holdings Inc ,0.0,0.0,1334:JP
+239, 6.271 ,84.6, Maruhachi Warehouse Co Ltd ,10.15,859.0,9313:JP
+240, 13.877 ,96.4, Maruhachi Holdings Co Ltd ,8.68,863.0,3504:JP
+241, 5.013 ,7.6, Maruhachi Securities Co Ltd ,16.4,124.0,8700:JP
+242, 34.700 ,41.4, Shinagawa Refractories Co Ltd ,8.9,375.0,5351:JP
+243, 6.760 ,0.0, Sanwa Co Ltd/Kitahama Chuo-Ku Osaka ,0.0,411.0,3187:JP
+244, 285.055 ,77.0, Sanwa Holdings Corp ,15.76,1224.0,5929:JP
+245, 483.000 ,196.2, Itochu Techno-Solutions Corp ,20.51,4070.0,4739:JP
+246, 2.967 ,246.7, ITOCHU Corp ,7.23,1792.0,8001:JP
+247,0,2.523, Phyz Inc ,14.883,6150.0,9325:JP
+248, 14.861 ,16.2, Toyo Wharf & Warehouse Co Ltd ,11.86,194.0,9351:JP
+249, 2.331 ,133.0, Mitsui Fudosan Co Ltd ,17.67,2357.5,8801:JP
+250, 37.850 ,0.0, Bank of Japan ,0.0,37850.0,8301:JP
+251, 420.994 ,7.6, Mitsui OSK Lines Ltd ,45.86,355.0,9104:JP
+252,0,29.371, Sakura Sogo REIT Investment Corp ,2910.0,88500.0,3473:JP
+253, 31.827 ,11.9, Sakura Internet Inc ,70.85,856.0,3778:JP
+254, 7.336 ,18.7, Sakura KCS Corp ,34.94,655.0,4761:JP
+255, 4.127 ,3.4, Sakurajima Futo Kaisha Ltd ,78.52,270.0,9353:JP
+256, 4.968 ,10.1, Rinko Corp ,18.29,184.0,9355:JP
+257, 37.957 ,114.1, Meiko Trans Co Ltd ,10.08,1150.0,9357:JP
+258, 26.519 ,151.4, Meiko Construction Co Ltd ,6.47,965.0,1869:JP
+259, 40.287 ,84.9, Meiko Network Japan Co Ltd ,17.09,1497.0,4668:JP
+260, 22.115 ,57.4, Utoc Corp ,8.87,512.0,9358:JP
+261, 18.004 ,55.4, Isewan Terminal Service Co Ltd ,11.83,655.0,9359:JP
+262, 2.805 ,5.7, Suzuyo Shinwart Corp ,32.81,191.0,9360:JP
+263, 3.565 ,142.0, Fushiki Kairiku Unso Co Ltd ,9.6,1363.0,9361:JP
+264, 2.154 ,16.6, Hyoki Kaiun Kaisha Ltd ,10.58,176.0,9362:JP
+265, 2.865 ,4.1, Daiun Co Ltd ,11.11,46.0,9363:JP
+266, 337.994 ,70.0, Kamigumi Co Ltd ,17.61,1236.0,9364:JP
+267, 2.249 ,11.8, Tradia Corp ,12.99,155.0,9365:JP
+268, 2.726 ,424.8, Suzuki Motor Corp ,13.07,5526.0,7269:JP
+269, 833.946 ,52.1, Dai Nippon Printing Co Ltd ,24.66,1295.0,7912:JP
+270, 16.980 ,76.1, Oisix.daichi Inc ,27.84,2136.0,3182:JP
+271, 34.685 ,87.5, Daiki Aluminium Industry Co Ltd ,9.08,818.0,5702:JP
+272, 3.199 ,533.0, Daikin Industries Ltd ,20.48,10945.0,6367:JP
+273, 8.497 ,0.0, Daikokuya Holdings Co Ltd ,0.0,83.0,6993:JP
+274, 125.476 ,153.0, Daikyonishikawa Corp ,11.1,1727.0,4246:JP
+275, 16.082 ,54.1, Daiki Axis Co Ltd ,23.94,1310.0,4245:JP
+276, 181.362 ,15.2, Daikyo Inc ,14.39,216.0,8840:JP
+277, 4.271 ,49.1, Sanritsu Corp ,14.47,700.0,9366:JP
+278, 4.056 ,62.8, Daito Koun Co Ltd ,6.88,435.0,9367:JP
+279, 14.001 ,89.0, Kimura Unity Co Ltd ,13.04,1163.0,9368:JP
+280, 38.224 ,230.7, KRS Corp ,13.07,3025.0,9369:JP
+281, 42.685 ,0.0, Yusen Logistics Co Ltd ,0.0,1030.0,9370:JP
+282,0,0.0, Futaba Corp/Tokyo ,0.0,0.0,9371:JP
+283,0,0.0, Daito Corp ,0.0,0.0,9372:JP
+284,0,0.0, Daito Corp ,0.0,0.0,9372:JP
+285,0,0.0, Nikko Travel Co Ltd ,0.0,0.0,9373:JP
+286,0,0.0, Tiger Kanri Inc ,0.0,0.0,9374:JP
+287, 126.072 ,61.8, Kintetsu World Express Inc ,28.33,1784.0,9375:JP
+288, 2.140 ,20.5, Eurasia Travel Co Ltd ,28.25,580.0,9376:JP
+289, 11.495 ,51.7, AGP Corp ,15.95,828.0,9377:JP
+290,0,0.0, World Logi Co Ltd ,0.0,0.0,9378:JP
+291,0,0.0, Mitsui-Soko Logistics Co Ltd ,0.0,0.0,9379:JP
+292, 11.685 ,20.5, Azuma Shipping Co Ltd ,19.76,410.0,9380:JP
+293, 21.789 ,54.6, AIT Corp ,20.21,1090.0,9381:JP
+294,0,0.0, Vantec Corp ,0.0,0.0,9382:JP
+295,0.0,0.0,,0.0,0.0,9383:JP
+296, 15.459 ,72.5, Naigai Trans Line Ltd ,19.92,1427.0,9384:JP
+297, 3.631 ,61.2, Shoei Corp ,8.66,558.0,9385:JP
+298, 15.770 ,86.4, Nippon Concept Corp ,13.93,1228.0,9386:JP
+299,0.0,0.0,,0.0,0.0,9387:JP
+300,0.0,0.0,,0.0,0.0,9388:JP
+301,0.0,0.0,,0.0,0.0,9389:JP
+302,0.0,0.0,,0.0,0.0,9390:JP
+303,0.0,0.0,,0.0,0.0,9391:JP
+304,0.0,0.0,,0.0,0.0,9392:JP
+305,0.0,0.0,,0.0,0.0,9393:JP
+306,0.0,0.0,,0.0,0.0,9394:JP
+307,0.0,0.0,,0.0,0.0,9395:JP
+308,0.0,0.0,,0.0,0.0,9396:JP
+309,0.0,0.0,,0.0,0.0,9397:JP
+310,0.0,0.0,,0.0,0.0,9398:JP
+311, 3.042 ,0.0, Xinhua Holdings Ltd ,0.0,198.0,9399:JP
+312, 398.009 ,104.7, Tokyo Broadcasting System Holdings Inc ,19.96,2100.0,9401:JP
+313, 21.622 ,78.8, Chubu-Nippon Broadcasting Co Ltd ,10.39,819.0,9402:JP
+314, 21.622 ,78.8, Chubu-Nippon Broadcasting Co Ltd ,10.39,819.0,9402:JP
+315, 515.245 ,155.6, Nippon Television Holdings Inc ,12.56,1965.0,9404:JP
+316, 35.558 ,80.2, Asahi Broadcasting Corp ,10.59,862.0,9405:JP
+317,0,2.24, RKB Mainichi Holdings Corp ,11.536,400.0,9407:JP
+318, 5.310 ,106.4, Broadcasting System of Niigata Inc ,8.32,881.0,9408:JP
+319, 237.787 ,142.6, TV Asahi Holdings Corp ,15.36,2211.0,9409:JP
+320,0,0.0, TV Tokyo Corp ,0.0,0.0,9411:JP
+321, 170.579 ,54.1, SKY Perfect JSAT Holdings Inc ,9.15,499.0,9412:JP
+322, 69.704 ,132.1, Tv Tokyo Holdings Corp ,18.33,2430.0,9413:JP
+323, 22.218 ,85.4, Nippon BS Broadcasting Corp ,14.61,1232.0,9414:JP
+324,0,0.0, Japan CableCast Inc ,0.0,0.0,9415:JP
+325, 40.858 ,64.2, Vision Inc/Tokyo Japan ,39.08,2575.0,9416:JP
+326, 4.811 ,80.1, Smartvalue Co Ltd ,26.54,2200.0,9417:JP
+327, 17.758 ,0.0, U-Next Co Ltd ,0.0,1114.0,9418:JP
+328, 13.843 ,55.0, WirelessGate Inc ,23.86,1355.0,9419:JP
+329, 9.203 ,0.0, NJ Holdings Inc ,0.0,3455.0,9421:JP
+330, 86.881 ,146.5, CONEXIO Corp ,13.25,1948.0,9422:JP
+331, 2.504 ,3.3, Forval RealStraight Inc ,32.13,109.0,9423:JP
+332, 21.352 ,0.0, Japan Communications Inc ,0.0,140.0,9424:JP
+333, 1.452 ,0.0, Nippon Telephone Inc ,0.0,430.0,9425:JP
+334,0,0.0, Ymobile Corp ,0.0,0.0,9427:JP
+335, 7.812 ,86.8, Crops Corp ,9.38,805.0,9428:JP
+336,0,0.0, Hitachi Auto Parts & Services Co Ltd ,0.0,0.0,9429:JP
+337,0,0.0, MX Mobiling Co Ltd ,0.0,0.0,9430:JP
+338,0,0.0, KDD Corp ,0.0,0.0,9431:JP
+339, 11.042 ,408.8, Nippon Telegraph & Telephone Corp ,12.88,5304.0,9432:JP
+340, 7.571 ,225.0, KDDI Corp ,13.01,2947.0,9433:JP
+341,0,0.0, Softbank Corp ,0.0,0.0,9434:JP
+342, 643.188 ,786.1, Hikari Tsushin Inc ,17.13,13660.0,9435:JP
+343, 105.130 ,280.3, Okinawa Cellular Telephone Co ,13.72,3885.0,9436:JP
+344, 9.796 ,171.1, NTT DOCOMO Inc ,14.68,2532.0,9437:JP
+345, 43.347 ,33.4, MTI Ltd ,21.33,720.0,9438:JP
+346, 2.969 ,0.0, M H Group Ltd ,0.0,266.0,9439:JP
+347,0,0.0, Nextel Corp ,0.0,0.0,9440:JP
+348, 21.982 ,257.5, Bell-Park Co Ltd ,12.68,3265.0,9441:JP
+349,0,0.0, JSAT Corp ,0.0,0.0,9442:JP
+350,0,0.0, Intec Communications Inc ,0.0,0.0,9443:JP
+351, 3.865 ,39.8, Toshin Corp ,15.2,606.0,9444:JP
+352, 6.644 ,25.8, Forval Telecom Inc ,15.44,397.0,9445:JP
+353, 7.328 ,51.6, SKI Corp ,13.09,679.0,9446:JP
+354,0,0.0, Marubeni Telecom Co Ltd ,0.0,0.0,9447:JP
+355,0,0.0, Invoice Inc ,0.0,0.0,9448:JP
+356, 162.323 ,48.1, GMO internet Inc ,29.11,1412.0,9449:JP
+357, 9.075 ,42.3, Aidma Marketing Communication Corp ,15.86,679.0,9466:JP
+358, 5.812 ,22.7, AlphaPolis Co Ltd ,52.79,1214.0,9467:JP
+359, 90.316 ,69.1, Kadokawa Dwango Corp ,18.45,1275.0,9468:JP
+360, 33.218 ,198.4, Gakken Holdings Co Ltd ,15.81,3175.0,9470:JP
+361, 6.131 ,72.9, Bunkeido Co Ltd ,12.74,929.0,9471:JP
+362,0,0.0, Escom Inc ,0.0,0.0,9472:JP
+363,0,0.0, ASCII Media Works Inc ,0.0,0.0,9473:JP
+364, 128.164 ,74.3, Zenrin Co Ltd ,45.16,3340.0,9474:JP
+365, 13.397 ,0.0, Shobunsha Publications Inc ,0.0,745.0,9475:JP
+366, 2.177 ,32.1, CHUOKEIZAI-SHA HOLDINGS INC ,15.43,490.0,9476:JP
+367,0,0.0, Kadokawa Corp ,0.0,0.0,9477:JP
+368, 5.613 ,11.5, SE Holdings and Incubations Co ,20.86,248.0,9478:JP
+369, 5.419 ,2.2, Impress Holdings Inc ,65.91,151.0,9479:JP
+370,0,0.0, Telefonica SA ,0.0,0.0,9481:JP
+371,0,0.0, BCE Inc ,0.0,0.0,9482:JP
+372,0,0.0, Cable & Wireless Communications Ltd ,0.0,0.0,9483:JP
+373,0,0.0, BT Group PLC ,0.0,0.0,9484:JP
+374,0,0.0, AT&T Teleholdings Inc ,0.0,0.0,9485:JP
+375,0,0.0, Verizon Communications Inc ,0.0,0.0,9486:JP
+376,0,0.0, US West Inc ,0.0,0.0,9487:JP
+377,0,0.0, Nynex Corp ,0.0,0.0,9488:JP
+378,0,0.0, AT&T Corp ,0.0,0.0,9489:JP
+379,0,0.0, BellSouth LLC ,0.0,0.0,9490:JP
+380,0,0.0, Knight Ridder Inc ,0.0,0.0,9491:JP
+381,0,0.0, Twenty-First Century Fox Inc ,0.0,0.0,9492:JP
+382,0,0.0, GTE Corp ,0.0,0.0,9493:JP
+383,0,0.0, Deutsche Telekom AG ,0.0,0.0,9496:JP
+384, 713.516 ,174.6, Tokyo Electric Power Co Holdings Inc ,2.54,455.0,9501:JP
+385, 1.079 ,92.5, Chubu Electric Power Co Inc ,15.4,1439.0,9502:JP
+386, 1.427 ,148.3, Kansai Electric Power Co Inc/The ,10.25,1529.5,9503:JP
+387, 1.427 ,148.3, Kansai Electric Power Co Inc/The ,10.25,1529.5,9503:JP
+388, 463.448 ,19.1, Chugoku Electric Power Co Inc/The ,65.46,1263.0,9504:JP
+389, 220.219 ,0.0, Hokuriku Electric Power Co ,0.0,1051.0,9505:JP
+390, 745.272 ,110.8, Tohoku Electric Power Co Inc ,13.37,1495.0,9506:JP
+391, 306.967 ,127.4, Shikoku Electric Power Co Inc ,10.8,1403.0,9507:JP
+392, 603.162 ,157.2, Kyushu Electric Power Co Inc ,8.09,1283.0,9508:JP
+393, 177.831 ,0.0, Hokkaido Electric Power Co Inc ,0.0,830.0,9509:JP
+394, 104.487 ,138.3, Okinawa Electric Power Co Inc/The ,17.42,2447.0,9511:JP
+395, 532.130 ,184.5, Electric Power Development Co Ltd ,15.77,2964.0,9513:JP
+396, 21.825 ,114.0, EF-ON INC ,10.78,1249.0,9514:JP
+397, 50.631 ,43.4, eRex Co Ltd ,23.05,1027.0,9517:JP
+398,0,18.383, RENOVA Inc ,20.074,1131.0,9519:JP
+399, 1.311 ,18.3, Tokyo Gas Co Ltd ,31.35,581.0,9531:JP
+400, 885.237 ,24.9, Osaka Gas Co Ltd ,17.07,428.1,9532:JP
+401, 377.547 ,22.0, Toho Gas Co Ltd ,32.24,721.0,9533:JP
+402, 23.793 ,19.7, Hokkaido Gas Co Ltd ,13.95,275.0,9534:JP
+403, 24.139 ,34.7, Hiroshima Gas Co Ltd ,10.22,360.0,9535:JP
+404, 103.753 ,16.2, Saibu Gas Co Ltd ,17.23,293.0,9536:JP
+405, 14.136 ,258.7, Hokuriku Gas Co Ltd ,11.38,2864.0,9537:JP
+406, 31.219 ,64.7, Keiyo Gas Co Ltd ,8.83,571.0,9539:JP
+407,0,0.0, Chubu Gas Co Ltd ,0.0,0.0,9540:JP
+408,0,0.0, Otaki Gas Co Ltd ,0.0,0.0,9541:JP
+409,0,0.0, Shinnihon Gas Corp ,0.0,0.0,9542:JP
+410, 66.059 ,31.3, Shizuoka Gas Co Ltd ,27.68,881.0,9543:JP
+411,0,0.0, Higashinihon Gas Corp ,0.0,0.0,9544:JP
+412, 77.433 ,156.6, METAWATER Co Ltd ,19.01,3085.0,9551:JP
+413,0,0.0, NextEra Energy Inc ,0.0,0.0,9570:JP
+414,0,0.0, BG Group Ltd ,0.0,0.0,9571:JP
+415,0,0.0, Potomac Electric Power Co ,0.0,0.0,9572:JP
+416,0,0.0, Edison International ,0.0,0.0,9573:JP
+417,0,0.0, National Power PLC/Old ,0.0,0.0,9596:JP
+418,0,0.0, Powergen Ltd ,0.0,0.0,9597:JP
+419, 22.382 ,78.4, I-Net Corp/Kanagawa ,17.58,1383.0,9600:JP
+420, 22.382 ,78.4, I-Net Corp/Kanagawa ,17.58,1383.0,9600:JP
+421, 212.970 ,262.5, Shochiku Co Ltd ,58.22,15410.0,9601:JP
+422, 768.247 ,202.3, Toho Co Ltd/Tokyo ,20.09,4185.0,9602:JP
+423, 240.858 ,166.9, HIS Co Ltd ,21.1,3595.0,9603:JP
+424,0,0.0, International Television Films Inc ,0.0,0.0,9604:JP
+425, 194.507 ,95.5, Toei Co Ltd ,13.79,1310.0,9605:JP
+426,0,0.0, Nikkatsu Corp ,0.0,0.0,9606:JP
+427,0,0.0, AOI Pro Inc ,0.0,0.0,9607:JP
+428,0,0.0, Fukuyama Consultants Co Ltd ,0.0,0.0,9608:JP
+429,0,0.0, C&I Holdings Co Ltd ,0.0,0.0,9609:JP
+430, 1.850 ,22.4, Wilson Learning Worldwide Inc ,16.04,357.0,9610:JP
+431,0,0.0, D Wonderland Inc ,0.0,0.0,9611:JP
+432, 16.019 ,78.4, Luckland Co Ltd ,25.97,2065.0,9612:JP
+433, 1.645 ,45.5, NTT Data Corp ,25.81,1172.0,9613:JP
+434,0,0.0, Bellsystem24 Inc ,0.0,0.0,9614:JP
+435,0,0.0, Tokyo Biso Kogyo Corp ,0.0,0.0,9615:JP
+436, 117.069 ,192.7, Kyoritsu Maintenance Co Ltd ,15.56,3045.0,9616:JP
+437,0,0.0, Zenkyoken Co Ltd ,0.0,0.0,9617:JP
+438,0,0.0, AIM Services Co Ltd ,0.0,0.0,9618:JP
+439, 35.368 ,166.1, Ichinen Holdings Co Ltd ,8.65,1455.0,9619:JP
+440,0,0.0, Square Co Ltd ,0.0,0.0,9620:JP
+441, 14.357 ,102.8, CTI Engineering Co Ltd ,9.87,1033.0,9621:JP
+442, 36.249 ,120.6, Space Co Ltd ,12.43,1495.0,9622:JP
+443,0,0.0, Canon Software Inc ,0.0,0.0,9623:JP
+444, 8.427 ,128.2, Chodai Co Ltd ,6.98,915.0,9624:JP
+445, 3.893 ,104.2, Cerespo Co Ltd ,13.1,1366.0,9625:JP
+446,0,0.0, Japan Engineering Consultants Co Ltd ,0.0,0.0,9626:JP
+447, 251.917 ,250.7, Ain Holdings Inc ,31.51,7960.0,9627:JP
+448, 15.120 ,263.8, San Holdings Inc/Japan ,9.42,2507.0,9628:JP
+449, 12.104 ,38.4, PCA Corp ,40.95,1583.0,9629:JP
+450,0,0.0, UP Inc ,0.0,0.0,9630:JP
+451, 26.987 ,65.9, Tokyu Recreation Co Ltd ,12.82,847.0,9631:JP
+452, 16.052 ,653.8, Subaru Enterprise Co Ltd ,9.22,6160.0,9632:JP
+453, 11.939 ,2.8, Tokyo Theatres Co Inc ,52.65,150.0,9633:JP
+454,0,0.0, Shugakusha Co Ltd ,0.0,0.0,9634:JP
+455, 2.930 ,8.2, Musashino Kogyo Co Ltd ,34.11,279.0,9635:JP
+456, 9.168 ,42.7, Kin-Ei Corp ,76.11,3280.0,9636:JP
+457, 10.976 ,153.3, O S Co Ltd ,22.37,3455.0,9637:JP
+458,0,0.0, TDI Co Ltd ,0.0,0.0,9638:JP
+459, 32.676 ,142.0, Sankyo Frontier Co Ltd ,9.85,1391.0,9639:JP
+460, 26.260 ,176.0, Saison Information Systems Co Ltd ,9.21,1640.0,9640:JP
+461, 15.704 ,23.3, Sacos Corp ,15.37,359.0,9641:JP
+462,0,0.0, Koma Stadium Co Ltd ,0.0,0.0,9642:JP
+463, 5.465 ,0.0, Nakanihon KOGYO Co Ltd ,0.0,10120.0,9643:JP
+464, 12.343 ,72.4, Tanabe Management Consulting Co Ltd ,19.49,1412.0,9644:JP
+465,0,0.0, Diamond Computer Service Co Ltd ,0.0,0.0,9645:JP
+466,0,0.0, Taito Corp ,0.0,0.0,9646:JP
+467, 1.105 ,351.1, Kyowa Engineering Consultants Co Ltd ,5.37,1863.0,9647:JP
+468,0,0.0, Wesco Inc/Japan ,0.0,0.0,9648:JP
+469,0,0.0, Meiden Engineering Co Ltd ,0.0,0.0,9649:JP
+470,0,0.0, Tecmo Ltd ,0.0,0.0,9650:JP
+471, 7.107 ,62.2, Japan Process Development Co Ltd ,19.88,1240.0,9651:JP
+472,0,0.0, Nic Corp ,0.0,0.0,9652:JP
+473,0,0.0, SBI Partners Co Ltd ,0.0,0.0,9653:JP
+474,0,0.0, Koei Co Ltd ,0.0,0.0,9654:JP
+475,0,0.0, Stat Corp ,0.0,0.0,9655:JP
+476, 4.335 ,35.4, Greenland Resort Co Ltd ,11.85,419.0,9656:JP
+477,0,0.0, Comtec Inc/Japan ,0.0,0.0,9657:JP
+478, 10.768 ,111.5, Business Brain Showa-Ota Inc ,12.07,1338.0,9658:JP
+479,0,0.0, IX Corp ,0.0,0.0,9659:JP
+480,0,0.0, CRC Solutions Corp ,0.0,0.0,9660:JP
+481, 67.057 ,29.1, Kabuki-Za Co Ltd ,189.61,5570.0,9661:JP
+482,0,0.0, Eyeful Home Technology Inc ,0.0,0.0,9662:JP
+483, 66.983 ,222.2, Nagawa Co Ltd ,18.43,4055.0,9663:JP
+484, 34.892 ,0.0, Misonoza Theatrical Corp ,0.0,705.0,9664:JP
+485,0,0.0, Yoshimoto Kogyo Co Ltd ,0.0,0.0,9665:JP
+486,0,0.0, Nippon Dream Kanko ,0.0,0.0,9666:JP
+487,0,0.0, Horipro Inc ,0.0,0.0,9667:JP
+488,0,0.0, Sotetsu Kigyo Co Ltd ,0.0,0.0,9668:JP
+489,0,0.0, Aucnet Inc/Old ,0.0,0.0,9669:JP
+490,0,0.0, IGS Corp ,0.0,0.0,9670:JP
+491, 39.088 ,74.8, Yomiuri Land Co Ltd ,6.26,485.0,9671:JP
+492, 97.369 ,118.7, Tokyotokeiba Co Ltd ,28.51,3400.0,9672:JP
+493,0,0.0, Koshien Tochi Kigyo ,0.0,0.0,9673:JP
+494, 1.749 ,0.0, Kagetsuenkanko Co Ltd ,0.0,100.0,9674:JP
+495, 16.270 ,0.0, Joban Kosan Co Ltd ,0.0,1860.0,9675:JP
+496,0,0.0, Matsudo Kousan Co Ltd ,0.0,0.0,9676:JP
+497,0,0.0, Nihon Jumbo Co Ltd ,0.0,0.0,9677:JP
+498, 140.579 ,271.6, Kanamoto Co Ltd ,14.34,3930.0,9678:JP
+499, 3.224 ,236.5, Horai Co Ltd ,9.71,2299.0,9679:JP
+500,0,0.0, Kyosei Rentemu Co Ltd ,0.0,0.0,9680:JP
+501, 99.596 ,79.8, Tokyo Dome Corp ,13.03,1040.0,9681:JP
+502, 76.802 ,219.3, DTS Corp ,13.88,3065.0,9682:JP
+503,0,0.0, Osaka Stadium ,0.0,0.0,9683:JP
+504, 479.131 ,189.0, Square Enix Holdings Co Ltd ,20.71,3945.0,9684:JP
+505, 1.632 ,14.3, Kycom Holdings Co Ltd ,22.35,319.0,9685:JP
+506, 12.973 ,43.4, Toyo TEC Co Ltd ,26.15,1136.0,9686:JP
+507, 11.119 ,149.9, KSK Co Ltd/Inagi ,9.71,1471.0,9687:JP
+508,0,0.0, Ipec Inc ,0.0,0.0,9688:JP
+509,0,0.0, Green House Co Ltd ,0.0,0.0,9689:JP
+510,0,0.0, Cornet Corp ,0.0,0.0,9690:JP
+511, 4.184 ,153.3, Ryomo Systems Co Ltd ,7.77,1192.0,9691:JP
+512, 40.777 ,153.7, Computer Engineering & Consulting Ltd ,14.12,2224.0,9692:JP
+513,0,0.0, Sun River Co Ltd ,0.0,0.0,9693:JP
+514,0,0.0, Hitachi Software Engineering Co Ltd ,0.0,0.0,9694:JP
+515, 3.575 ,10.9, Kamogawa Grand Hotel Ltd/The ,31.43,342.0,9695:JP
+516, 4.103 ,8.4, With us Corp ,46.95,394.0,9696:JP
+517, 184.275 ,196.9, Capcom Co Ltd ,13.82,2746.0,9697:JP
+518, 4.490 ,29.6, Creo Co Ltd ,17.55,519.0,9698:JP
+519, 99.425 ,253.1, Nishio Rent All Co Ltd ,14.5,3710.0,9699:JP
+520,0,0.0, SRL Inc/Japan ,0.0,0.0,9700:JP
+521, 11.968 ,0.0, Tokyo Kaikan Co Ltd ,0.0,3460.0,9701:JP
+522, 6.796 ,49.4, ISB Corp ,26.93,1366.0,9702:JP
+523,0,0.0, Generas Corp ,0.0,0.0,9703:JP
+524, 10.142 ,2.9, AGORA Hospitality Group Co Ltd ,12.33,35.0,9704:JP
+525,0,0.0, Gajoen Kanko ,0.0,0.0,9705:JP
+526, 331.148 ,94.9, Japan Airport Terminal Co Ltd ,41.3,3960.0,9706:JP
+527, 10.250 ,240.0, UNIMAT Retirement Community Co Ltd ,4.97,1204.0,9707:JP
+528, 126.344 ,59.5, Imperial Hotel Ltd ,35.75,2185.0,9708:JP
+529, 8.660 ,2.1, NCS&A Co Ltd ,205.21,443.0,9709:JP
+530,0,0.0, Dai-Ichi Hotel ,0.0,0.0,9710:JP
+531,0,0.0, Nippon Computer Systems Corp ,0.0,0.0,9711:JP
+532,0,0.0, TransDigital Co Ltd ,0.0,0.0,9712:JP
+533, 20.441 ,16.8, Royal Hotel Ltd/The ,11.87,202.0,9713:JP
+534,0,0.0, Software Research Associates Inc ,0.0,0.0,9714:JP
+535, 118.472 ,165.0, Transcosmos Inc ,14.71,2417.0,9715:JP
+536, 139.859 ,94.7, Nomura Co Ltd ,24.63,2362.0,9716:JP
+537, 24.139 ,94.4, Jastec Co Ltd ,13.98,1337.0,9717:JP
+538,0,0.0, Kokusai Kanko Kaikan Co Ltd ,0.0,0.0,9718:JP
+539, 523.194 ,231.3, SCSK Corp ,20.95,4760.0,9719:JP
+540,0,1.171, Hotel New Grand Co Ltd ,3.454,100.0,9720:JP
+541,0,0.0, Biwako Hotel Co Ltd ,0.0,0.0,9721:JP
+542, 43.214 ,5.1, Fujita Kanko Inc ,698.22,3610.0,9722:JP
+543, 8.662 ,0.0, Kyoto Hotel Ltd/The ,0.0,779.0,9723:JP
+544,0,0.0, Hotel New Hankyu Co Ltd ,0.0,0.0,9724:JP
+545,0,0.0, Tokyu Hotels Co Ltd ,0.0,0.0,9725:JP
+546, 60.675 ,0.0, KNT-CT Holdings Co Ltd ,0.0,229.0,9726:JP
+547,0,0.0, Tokyu Tourist Corp ,0.0,0.0,9727:JP
+548, 80.960 ,123.9, Nippon Kanzai Co Ltd ,15.87,1984.0,9728:JP
+549, 86.679 ,296.4, Tokai Corp/Gifu ,16.23,4970.0,9729:JP
+550,0,0.0, Wao Corp ,0.0,0.0,9730:JP
+551, 13.397 ,297.5, Hakuyosha Co Ltd ,11.55,3405.0,9731:JP
+552,0,0.0, Toei Labo Tech Co Ltd ,0.0,0.0,9732:JP
+553, 44.349 ,310.1, Nagase Brothers Inc ,14.09,4370.0,9733:JP
+554, 2.242 ,12.7, Seiyoken KK ,67.06,855.0,9734:JP
+555, 1.867 ,388.1, Secom Co Ltd ,20.62,8080.0,9735:JP
+556,0,0.0, Hakuseisha Co Ltd ,0.0,0.0,9736:JP
+557,0,0.0, CSK Corp ,0.0,0.0,9737:JP
+558,0,0.0, Intec Inc ,0.0,0.0,9738:JP
+559, 33.004 ,128.7, Nippon Systemware Co Ltd ,17.21,2231.0,9739:JP
+560, 30.700 ,69.1, Central Security Patrols Co Ltd ,30.0,2091.0,9740:JP
+561,0,0.0, Hitachi Information Systems Ltd ,0.0,0.0,9741:JP
+562, 28.657 ,51.4, Ines Corp ,19.5,1005.0,9742:JP
+563, 56.220 ,43.8, Tanseisha Co Ltd ,26.52,1160.0,9743:JP
+564, 151.500 ,281.7, Meitec Corp ,17.92,5110.0,9744:JP
+565,0,0.0, ABC Co Ltd ,0.0,0.0,9745:JP
+566, 83.401 ,171.8, TKC Corp ,18.16,3185.0,9746:JP
+567, 121.216 ,136.5, Asatsu-DK Inc ,21.26,2948.0,9747:JP
+568,0,0.0, NJK Corp ,0.0,0.0,9748:JP
+569, 111.042 ,175.9, Fuji Soft Inc ,18.74,3330.0,9749:JP
+570,0,0.0, Sorun Corp ,0.0,0.0,9750:JP
+571,0,0.0, TIS Inc/Old ,0.0,0.0,9751:JP
+572,0,0.0, Namco Ltd ,0.0,0.0,9752:JP
+573, 4.567 ,0.0, IX Knowledge Inc ,0.0,389.0,9753:JP
+574,0,0.0, TSD ,0.0,0.0,9754:JP
+575, 45.317 ,58.7, Oyo Corp ,26.71,1601.0,9755:JP
+576,0,0.0, ASK Planning Center Inc ,0.0,0.0,9756:JP
+577, 119.990 ,92.6, Funai Soken Holdings Inc ,36.52,3525.0,9757:JP
+578, 12.323 ,19.8, Japan Systems Co Ltd ,23.9,473.0,9758:JP
+579, 95.854 ,113.2, NSD Co Ltd ,17.95,2072.0,9759:JP
+580, 10.276 ,11.5, Shingakukai Co Ltd ,44.8,527.0,9760:JP
+581, 7.443 ,6.0, Tokai Lease Co Ltd ,35.29,215.0,9761:JP
+582,0,0.0, Daiwa Lease Co Ltd ,0.0,0.0,9762:JP
+583, 7.648 ,28.5, Marubeni Construction Material Lease Co Ltd ,7.83,224.0,9763:JP
+584, 3.994 ,16.7, Giken Kogyo Co Ltd ,14.35,206.0,9764:JP
+585, 9.153 ,39.2, Ohba Co Ltd ,12.54,494.0,9765:JP
+586, 820.820 ,211.8, Konami Holdings Corp ,27.0,5830.0,9766:JP
+587, 3.203 ,8.7, Nikken Kogaku Co Ltd ,19.86,172.0,9767:JP
+588, 7.889 ,99.3, IDEA Consultants Inc ,10.59,1047.0,9768:JP
+589, 17.762 ,82.7, Gakkyusha Co Ltd ,19.36,1603.0,9769:JP
+590,0,0.0, Walt Disney Co/The ,0.0,0.0,9770:JP
+591,0,0.0, Waste Management Inc/Old ,0.0,0.0,9771:JP
+592,0,0.0, Host Hotels & Resorts Inc ,0.0,0.0,9772:JP
+593,0,0.0, Dun & Bradstreet Corp/Pre Moody's spin-off ,0.0,0.0,9773:JP
+594,0,0.0, Cordiant Communications Group Ltd ,0.0,0.0,9774:JP
+595,0,0.0, Viad Corp ,0.0,0.0,9775:JP
+596, 5.810 ,179.9, Sapporo Clinical Laboratory Inc ,7.66,1391.0,9776:JP
+597,0,0.0, Japan Information Processing Service Co Ltd ,0.0,0.0,9777:JP
+598, 2.962 ,161.8, Subaru Co Ltd ,26.39,4340.0,9778:JP
+599,0,0.0, Mefos Ltd ,0.0,0.0,9779:JP
+600,0,4.812, Harima B-Stem Corp ,2.127,3000.0,9780:JP
+601,0,0.0, Ishikawajima Hanyoki Service Co Ltd ,0.0,0.0,9781:JP
+602, 9.535 ,140.5, DMS Inc ,9.34,1356.0,9782:JP
+603, 411.906 ,67.3, Benesse Holdings Inc ,59.72,4235.0,9783:JP
+604,0,0.0, Japan Industrial Testing Co Ltd ,0.0,0.0,9784:JP
+605,0,0.0, Daishinto Inc ,0.0,0.0,9785:JP
+606,0,0.0, Cats Inc ,0.0,0.0,9786:JP
+607, 210.178 ,196.6, Aeon Delight Co Ltd ,19.74,3935.0,9787:JP
+608, 17.727 ,21.6, NAC Co Ltd ,43.9,956.0,9788:JP
+609,0,0.0, Eikoh Inc ,0.0,0.0,9789:JP
+610, 80.845 ,89.6, Fukui Computer Holdings Inc ,39.25,3590.0,9790:JP
+611, 6.121 ,81.0, Biken Techno Corp ,9.79,823.0,9791:JP
+612, 86.380 ,50.3, NichiiGakkan Co Ltd ,23.52,1199.0,9792:JP
+613, 116.242 ,109.0, Daiseki Co Ltd ,23.64,2642.0,9793:JP
+614,0,0.0, Karakami Kankoh Co Ltd ,0.0,0.0,9794:JP
+615, 24.388 ,105.4, Step Co Ltd ,13.89,1475.0,9795:JP
+616,0,0.0, Daitec Co Ltd ,0.0,0.0,9796:JP
+617, 4.052 ,69.1, Nippon Engineering Consultants Co Ltd ,7.66,526.0,9797:JP
+618,0,0.0, Shidax Food Service Corp ,0.0,0.0,9798:JP
+619, 8.331 ,81.1, Asahi Intelligence Service Co Ltd ,12.43,1009.0,9799:JP
+620,0,0.0, ITT Corp ,0.0,0.0,9801:JP
+621,0,0.0, Invensys International Holdings Ltd ,0.0,0.0,9802:JP
+622,0,0.0, Lonmin PLC ,0.0,0.0,9803:JP
+623, 181.722 ,716.0, Nippon Steel & Sumikin Bussan Corp ,8.2,6080.0,9810:JP
+624,0,0.0, ASTIS Co Ltd ,0.0,0.0,9811:JP
+625, 7.320 ,0.0, TO Holdings Co Ltd ,0.0,830.0,9812:JP
+626,0,0.0, Canon Tokki Corp ,0.0,0.0,9813:JP
+627,0,0.0, ASICS Trading Co Ltd ,0.0,0.0,9814:JP
+628,0,0.0, Catena Corp ,0.0,0.0,9815:JP
+629, 5.688 ,2.3, Striders Corp ,28.44,64.0,9816:JP
+630,0,0.0, Goto Co Ltd ,0.0,0.0,9817:JP
+631, 6.590 ,76.6, Daimaruenawin Co Ltd ,10.69,814.0,9818:JP
+632,0,0.0, Super Daiei Co Ltd ,0.0,0.0,9819:JP
+633, 2.364 ,22.3, MT Genex Corp ,9.81,222.0,9820:JP
+634,0,0.0, Amway Japan Ltd/OLD ,0.0,0.0,9821:JP
+635,0,0.0, Chronicle Corp ,0.0,0.0,9822:JP
+636, 24.077 ,230.6, Mammy Mart Corp ,9.67,2224.0,9823:JP
+637, 25.704 ,193.6, Senshu Electric Co Ltd ,12.3,2307.0,9824:JP
+638,0,0.0, Azwell Inc ,0.0,0.0,9825:JP
+639, 1.415 ,4.2, Jeugia Corp ,40.69,171.0,9826:JP
+640, 2.127 ,8.0, Lilycolor Co Ltd ,20.92,132.0,9827:JP
+641, 22.474 ,66.1, Genki Sushi Co Ltd ,38.26,2565.0,9828:JP
+642, 1.939 ,0.0, Nagano Tokyu Department Store Co Ltd ,0.0,204.0,9829:JP
+643, 166.210 ,154.5, Trusco Nakayama Corp ,16.29,2562.0,9830:JP
+644, 564.430 ,46.0, Yamada Denki Co Ltd ,12.69,589.0,9831:JP
+645, 152.215 ,36.8, Autobacs Seven Co Ltd ,49.2,1835.0,9832:JP
+646,0,0.0, Canon Life Care Solutions Co Ltd ,0.0,0.0,9833:JP
+647,0,0.0, Rio Chain Holdings Co Ltd ,0.0,0.0,9834:JP
+648, 4.965 ,33.6, Juntendo Co Ltd ,17.75,612.0,9835:JP
+649, 8.772 ,1.6, Levi Strauss Japan KK ,184.31,307.0,9836:JP
+650, 30.584 ,144.9, Morito Co Ltd ,6.85,998.0,9837:JP
+651,0,0.0, RH Traveler Corp ,0.0,0.0,9838:JP
+652,0,0.0, St Jude Medical Japan Co Ltd ,0.0,0.0,9839:JP
+653,0,0.0, Homac Corp ,0.0,0.0,9840:JP
+654,0,0.0, BMB Corp ,0.0,0.0,9841:JP
+655, 63.686 ,126.1, Arcland Sakamoto Co Ltd ,12.2,1566.0,9842:JP
+656, 1.917 ,559.1, Nitori Holdings Co Ltd ,29.96,16840.0,9843:JP
+657,0,0.0, USC Corp ,0.0,0.0,9844:JP
+658, 17.153 ,110.3, Parker Corp ,5.8,647.0,9845:JP
+659, 13.098 ,74.2, Tenmaya Store Co Ltd ,15.28,1133.0,9846:JP
+660,0,0.0, Soliste Corp ,0.0,0.0,9847:JP
+661,0,0.0, Toyota Corolla Gifu Co Ltd ,0.0,0.0,9848:JP
+662, 3.103 ,13.7, Kyodo Paper Holdings ,30.85,422.0,9849:JP
+663, 25.911 ,20.0, Gourmet Kineya Co Ltd ,57.44,1151.0,9850:JP
+664,0,0.0, Hoshi ITO ,0.0,0.0,9851:JP
+665, 9.527 ,108.5, CB Group Management Co Ltd ,7.13,784.0,9852:JP
+666, 5.583 ,34.3, Ginza Renoir Co Ltd ,26.02,885.0,9853:JP
+667, 5.880 ,0.0, Aigan Co Ltd ,0.0,285.0,9854:JP
+668,0,0.0, Kuroganeya Co Ltd ,0.0,0.0,9855:JP
+669, 41.478 ,120.9, KU Holdings Co Ltd ,7.78,941.0,9856:JP
+670, 5.538 ,100.6, Eiwa Corp ,8.51,856.0,9857:JP
+671,0,0.0, Meiko Shokai Co Ltd/Old ,0.0,0.0,9858:JP
+672,0,0.0, U Store Co Ltd ,0.0,0.0,9859:JP
+673,0,0.0, Gifu Hino Motor Co Ltd ,0.0,0.0,9860:JP
+674, 120.099 ,23.9, Yoshinoya Holdings Co Ltd ,77.32,1858.0,9861:JP
+675,0,0.0, Memorex Telex Japan Ltd ,0.0,0.0,9862:JP
+676,0,0.0, Marutomi Group Co Ltd ,0.0,0.0,9863:JP
+677,0,0.0, Nakai Co Ltd ,0.0,0.0,9864:JP
+678,0,0.0, Nissho Electronics Corp ,0.0,0.0,9865:JP
+679,0,0.0, Marukyo Corp/Fukuoka ,0.0,0.0,9866:JP
+680,0,3.595, Solekia Ltd ,398.4,3555.0,9867:JP
+681,0,0.0, Torii Co Ltd ,0.0,0.0,9868:JP
+682, 123.235 ,178.7, Kato Sangyo Co Ltd ,18.08,3260.0,9869:JP
+683,0,0.0, Hanaten Co Ltd ,0.0,0.0,9870:JP
+684,0,0.0, Itoki Co Ltd ,0.0,0.0,9871:JP
+685, 7.849 ,50.1, Kitakei Co Ltd ,15.65,775.0,9872:JP
+686, 46.158 ,95.0, KFC Holdings Japan Ltd ,21.34,2029.0,9873:JP
+687,0,0.0, Maruwa Co Ltd/Kokura ,0.0,0.0,9874:JP
+688,0,0.0, Matsumotokiyoshi Co Ltd ,0.0,0.0,9875:JP
+689, 7.233 ,3.8, COX Co Ltd ,69.05,262.0,9876:JP
+690,0,0.0, Marufuru Co Ltd ,0.0,0.0,9877:JP
+691, 1.227 ,0.0, Sekido Co Ltd ,0.0,84.0,9878:JP
+692,0,0.0, Futata Co Ltd ,0.0,0.0,9879:JP
+693, 15.468 ,41.7, Innotech Corp ,20.45,820.0,9880:JP
+694,0,0.0, Hi-Mart Ltd ,0.0,0.0,9881:JP
+695, 75.384 ,258.6, Yellow Hat Ltd ,11.68,3095.0,9882:JP
+696,0,0.0, Fuji Electronics Co Ltd ,0.0,0.0,9883:JP
+697,0,0.0, Tsuzuki Densan Co Ltd ,0.0,0.0,9884:JP
+698, 7.914 ,20.2, Charle Co Ltd ,24.33,492.0,9885:JP
+699,0,0.0, Make Co Ltd ,0.0,0.0,9886:JP
+700, 77.400 ,151.2, Matsuya Foods Co Ltd ,26.86,4120.0,9887:JP
+701, 7.452 ,65.3, UEX Ltd ,9.51,621.0,9888:JP
+702, 17.703 ,80.1, JBCC Holdings Inc ,12.43,1015.0,9889:JP
+703, 6.851 ,22.5, Makiya Co Ltd ,28.89,650.0,9890:JP
+704,0,0.0, Kokura Enterprise Co Ltd ,0.0,0.0,9891:JP
+705,0,0.0, Himiko Co Ltd ,0.0,0.0,9892:JP
+706,0,0.0, Home Wide Corp ,0.0,0.0,9893:JP
+707,0,0.0, Atol Co Ltd ,0.0,0.0,9894:JP
+708, 3.970 ,3.5, Consec Corp ,61.03,217.0,9895:JP
+709, 25.504 ,94.0, JK Holdings Co Ltd ,8.52,816.0,9896:JP
+710,0,0.0, Unidux Inc ,0.0,0.0,9897:JP
+711,0,0.0, Sakha Diamond Corp ,0.0,0.0,9898:JP
+712, 26.572 ,34.0, Jolly - Pasta Co Ltd ,48.44,1651.0,9899:JP
+713, 36.837 ,23.7, Sagami Chain Co Ltd ,58.75,1401.0,9900:JP
+714,0,0.0, Zict Inc ,0.0,0.0,9901:JP
+715, 70.149 ,242.7, Nichiden Corp ,18.13,4485.0,9902:JP
+716, 6.287 ,24.9, Kanseki Co Ltd ,31.39,771.0,9903:JP
+717, 4.847 ,11.0, Verite Co Ltd ,16.14,180.0,9904:JP
+718, 14.054 ,237.7, Fujii Sangyo Corp ,5.91,1405.0,9906:JP
+719,0,0.0, Daidensha Co Ltd ,0.0,0.0,9907:JP
+720, 12.370 ,231.5, Nihon Denkei Co Ltd ,6.75,1598.0,9908:JP
